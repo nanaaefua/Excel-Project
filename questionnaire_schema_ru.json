@@ -1,0 +1,1234 @@
+[
+  {
+    "position": 1,
+    "text": "Usually you:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "communicative"
+      },
+      {
+        "position": 2,
+        "text": "quite restrained and calm"
+      }
+    ]
+  },
+  {
+    "position": 2,
+    "text": "You more often allow:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "feelings control your mind"
+      },
+      {
+        "position": 2,
+        "text": "the mind to control your feelings"
+      }
+    ]
+  },
+  {
+    "position": 3,
+    "text": "When you decide to go somewhere for one day, you usually:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "plan what and when you will do"
+      },
+      {
+        "position": 2,
+        "text": "just hit the road"
+      }
+    ]
+  },
+  {
+    "position": 4,
+    "text": "Being in a company you usually:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "join the conversation"
+      },
+      {
+        "position": 2,
+        "text": "talk with each separately"
+      }
+    ]
+  },
+  {
+    "position": 5,
+    "text": "You can most likely be called:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "practical person"
+      },
+      {
+        "position": 2,
+        "text": "fictional, romantic"
+      }
+    ]
+  },
+  {
+      "position": 6,
+      "text": "You like people who:",
+      "answers": [
+          {
+            "position": 1,
+            "text": "follow generally accepted standards and do not attract attention"
+          },
+          {
+            "position": 2,
+            "text": "so original that they don't care if they pay attention to them or not"
+          }
+      ]
+  },
+  {
+    "position": 7,
+    "text": "Would you rather have among your friends a person who:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "always full of new ideas"
+      },
+      {
+        "position": 2,
+        "text": "looks at the world soberly and realistically"
+      }
+    ]
+  },
+  {
+    "position": 8,
+    "text": "When making an important decision, you are likely to:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "trust your feelings in choosing the best solution"
+      },
+      {
+        "position": 2,
+        "text": "trust your logic"
+      }
+    ]
+  },
+  {
+    "position": 9,
+    "text": "Usually you:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "can talk freely with almost any person at any time"
+      },
+      {
+        "position": 2,
+        "text": "don't always find what to say to a stranger"
+      }
+    ]
+  },
+  {
+    "position": 10,
+    "text": "When you read for your pleasure, you like:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "unusual, original manner of presentation"
+      },
+      {
+        "position": 2,
+        "text": "when writers express their thoughts clearly"
+      }
+    ]
+  },
+  {
+    "position": 11,
+    "text": "People can determine your area of interest:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "when they first meet you"
+      },
+      {
+        "position": 2,
+        "text": "only when they get to know you better"
+      }
+    ]
+  },
+  {
+    "position": 12,
+    "text": "When you do the same as many others, you prefer:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "do it in a common way"
+      },
+      {
+        "position": 2,
+        "text": "invent your own way"
+      }
+    ]
+  },
+  {
+    "position": 13,
+    "text": "Which word in the “attachment - rationality” pair do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "attachment"
+      },
+      {
+        "position": 2,
+        "text": "rationality”"
+      }
+    ]
+  },
+  {
+    "position": 14,
+    "text": "Which word in the “facts - ideas” pair do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "facts"
+      },
+      {
+        "position": 2,
+        "text": "idead"
+      }
+    ]
+  },
+  {
+    "position": 15,
+    "text": "Which word in the pair “convincing - touching” do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "convincing"
+      },
+      {
+        "position": 2,
+        "text": "touching"
+      }
+    ]
+  },
+  {
+    "position": 16,
+    "text": "Which word in the pair “prescribed - unplanned” do you like more in meaning?",
+    "answers": [
+        {
+          "position": 1,
+          "text": "prescribed"
+        },
+        {
+          "position": 2,
+          "text": "unplanned"
+        }
+    ]
+  },
+  {
+    "position": 17,
+    "text": "Which word in the “theory - fact” pair do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "theory"
+      },
+      {
+        "position": 2,
+        "text": "fact"
+      }
+    ]
+  },
+  {
+    "position": 18,
+    "text": "What word in the pair “calm - lively” do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "calm"
+      },
+      {
+        "position": 2,
+        "text": "lively"
+      }
+    ]
+  },
+  {
+    "position": 19,
+    "text": "What word in the pair “say - write” do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "say"
+      },
+      {
+        "position": 2,
+        "text": "write"
+      }
+    ]
+  },
+  {
+    "position": 20,
+    "text": "Which word in the “dreamy - practical” pair do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "dreamy"
+      },
+      {
+        "position": 2,
+        "text": "practical"
+      }
+    ]
+  },
+  {
+    "position": 21,
+    "text": "Which word in the “impulse - decision” pair do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "impulse"
+      },
+      {
+        "position": 2,
+        "text": "decision"
+      }
+    ]
+  },
+  {
+    "position": 22,
+    "text": "Which word in the pair “produce - create” do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "produce"
+      },
+      {
+        "position": 2,
+        "text": "create"
+      }
+    ]
+  },
+  {
+    "position": 23,
+    "text": "Which word in the pair “prudent - charming” do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "prudent"
+      },
+      {
+        "position": 2,
+        "text": "charming"
+      }
+    ]
+  },
+  {
+    "position": 24,
+    "text": "Which word in the pair “decisive - faithful” do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "decisive"
+      },
+      {
+        "position": 2,
+        "text": "faithful"
+      }
+    ]
+  },
+  {
+    "position": 25,
+    "text": "Which word in the “changing - constant” pair do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "changing"
+      },
+      {
+        "position": 2,
+        "text": "constant"
+      }
+    ]
+  },
+  {
+    "position": 26,
+    "text": "You consider yourself:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "more addicted person than others"
+      },
+      {
+        "position": 2,
+        "text": "less addicted"
+      }
+    ]
+  },
+  {
+    "position": 27,
+    "text": "Which word in the “concrete - abstract” pair do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "concrete"
+      },
+      {
+        "position": 2,
+        "text": "abstract"
+      }
+    ]
+  },
+  {
+    "position": 28,
+    "text": "What word in the pair “swift - thorough” do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "swift"
+      },
+      {
+        "position": 2,
+        "text": "thorough"
+      }
+    ]
+  },
+  {
+    "position": 29,
+    "text": "Which word in the “soft - hard” pair do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "soft"
+      },
+      {
+        "position": 2,
+        "text": "hard"
+      }
+    ]
+  },
+  {
+    "position": 30,
+    "text": "When something new comes into fashion, you usually:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "one of the first to try it"
+      },
+      {
+        "position": 2,
+        "text": "little interest in it"
+      }
+    ]
+  },
+  {
+    "position": 31,
+    "text": "Which word in the “foundation - spire” pair do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "foundation"
+      },
+      {
+        "position": 2,
+        "text": "spire"
+      }
+    ]
+  },
+  {
+    "position": 32,
+    "text": "What word in the pair “forgive - endure” do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "forgive"
+      },
+      {
+        "position": 2,
+        "text": "endure"
+      }
+    ]
+  },
+  {
+    "position": 33,
+    "text": "Do you think that following the daily routine:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "helps to work calmly"
+      },
+      {
+        "position": 2,
+        "text": "limits your freedom"
+      }
+    ]
+  },
+  {
+    "position": 34,
+    "text": "What word in the pair “intuition - experience” do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "intuition"
+      },
+      {
+        "position": 2,
+        "text": "experience"
+      }
+    ]
+  },
+  {
+    "position": 35,
+    "text": "What word in the “who - what” pair do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "who"
+      },
+      {
+        "position": 2,
+        "text": "what"
+      }
+    ]
+  },
+  {
+    "position": 36,
+    "text": "Do you think that your loved ones know about your feelings and thoughts:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "in most cases"
+      },
+      {
+        "position": 2,
+        "text": "only when you let them know"
+      }
+    ]
+  },
+  {
+    "position": 37,
+    "text": "What word in the pair “praise - criticism” do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "praise"
+      },
+      {
+        "position": 2,
+        "text": "criticism"
+      }
+    ]
+  },
+  {
+    "position": 38,
+    "text": "It’s more difficult for you to adapt:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "to routine"
+      },
+      {
+        "position": 2,
+        "text": "to constant change"
+      }
+    ]
+  },
+  {
+    "position": 39,
+    "text": "At parties you like:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "lead events"
+      },
+      {
+        "position": 2,
+        "text": "don't stop others from having fun as they want"
+      }
+    ]
+  },
+  {
+    "position": 40,
+    "text": "Which word in the “cautious - gullible” pair do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "cautious"
+      },
+      {
+        "position": 2,
+        "text": "gullible"
+      }
+    ]
+  },
+  {
+    "position": 41,
+    "text": "How do you feel when you are in an unfamiliar environment:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "calmly"
+      },
+      {
+        "position": 2,
+        "text": "anxiously"
+      }
+    ]
+  },
+  {
+    "position": 42,
+    "text": "To speak out, expressing the interests of the group, for you:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "easy and nice"
+      },
+      {
+        "position": 2,
+        "text": "unpleasant duty"
+      }
+    ]
+  },
+  {
+    "position": 43,
+    "text": "You would prefer to work with a manager who:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "always kind"
+      },
+      {
+        "position": 2,
+        "text": "always fair"
+      }
+    ]
+  },
+  {
+    "position": 44,
+    "text": "Your friend is easier to become someone who:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "shares your standards and point of view"
+      },
+      {
+        "position": 2,
+        "text": "is an interesting person"
+      }
+    ]
+  },
+  {
+    "position": 45,
+    "text": "Which word in the pair “decisiveness - curiosity” do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "decisiveness"
+      },
+      {
+        "position": 2,
+        "text": "curiosity"
+      }
+    ]
+  },
+  {
+    "position": 46,
+    "text": "When you are interrupted, you:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "easy to respond"
+      },
+      {
+        "position": 2,
+        "text": "easily annoyed"
+      }
+    ]
+  },
+  {
+    "position": 47,
+    "text": "Cold attitude towards you colleagues:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "it doesn't matter to you"
+      },
+      {
+        "position": 2,
+        "text": "offends you"
+      }
+    ]
+  },
+  {
+    "position": 48,
+    "text": "You do more often:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "what do you think is right"
+      },
+      {
+        "position": 2,
+        "text": "as circumstances dictate"
+      }
+    ]
+  },
+  {
+    "position": 49,
+    "text": "More important for you:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "insist"
+      },
+      {
+        "position": 2,
+        "text": "keep relationship"
+      }
+    ]
+  },
+  {
+    "position": 50,
+    "text": "What word in the pair “whole - details” do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "whole"
+      },
+      {
+        "position": 2,
+        "text": "details"
+      }
+    ]
+  },
+  {
+    "position": 51,
+    "text": "You are used to taking more care of events:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "today"
+      },
+      {
+        "position": 2,
+        "text": "which do not concern the current moment"
+      }
+    ]
+  },
+  {
+    "position": 52,
+    "text": "What word in the pair “understand - manage” do you like more in meaning?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "understand"
+      },
+      {
+        "position": 2,
+        "text": "manage"
+      }
+    ]
+  },
+  {
+    "position": 53,
+    "text": "You can rather be called a person who:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "inclined to focus on obvious facts"
+      },
+      {
+        "position": 2,
+        "text": "sees options that others don't notice"
+      }
+    ]
+  },
+  {
+    "position": 54,
+    "text": "Can you say that you:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "take emotional problems to heart"
+      },
+      {
+        "position": 2,
+        "text": "treat emotional problems as a hindrance in solving problems"
+      }
+    ]
+  },
+  {
+    "position": 55,
+    "text": "At the end of the day you are more likely to:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "forget about time, carried away by solving problems"
+      },
+      {
+        "position": 2,
+        "text": "strive to complete some part and finish the work on time"
+      }
+    ]
+  },
+  {
+    "position": 56,
+    "text": "In work you:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "set your own standards where possible"
+      },
+      {
+        "position": 2,
+        "text": "more interested in how others do work"
+      }
+    ]
+  },
+  {
+    "position": 57,
+    "text": "Can you say that you sometimes pick up more than you can digest or use?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "rather yes"
+      },
+      {
+        "position": 2,
+        "text": "probably not"
+      }
+    ]
+  },
+  {
+    "position": 58,
+    "text": "When performing work tasks, you:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "prefer to rely on your experience and knowledge"
+      },
+      {
+        "position": 2,
+        "text": "each time you rely on a new approach that requires new knowledge"
+      }
+    ]
+  },
+  {
+    "position": 59,
+    "text": "You can say about you that you are a person who:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "enthusiastic"
+      },
+      {
+        "position": 2,
+        "text": "usually smooth and businesslike"
+      }
+    ]
+  },
+  {
+    "position": 60,
+    "text": "When you learn new things, you:",
+    "answers": [
+      {
+        "position": 1,
+        "text": "ask for more concrete examples"
+      },
+      {
+        "position": 2,
+        "text": "quickly grasp the meanings of words and characters"
+      }
+    ]
+  },
+  {
+    "position": 61,
+    "text": "Do you like what you do at work?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "Yes"
+      },
+      {
+        "position": 2,
+        "text": "Rather yes"
+      },
+      {
+        "position": 3,
+        "text": "Rather no"
+      },
+      {
+        "position": 4,
+        "text": "No"
+      }
+    ]
+  },
+  {
+    "position": 62,
+    "text": "Does your work allow you to bring out your best qualities and abilities?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "Yes"
+      },
+      {
+        "position": 2,
+        "text": "Rather yes"
+      },
+      {
+        "position": 3,
+        "text": "Rather no"
+      },
+      {
+        "position": 4,
+        "text": "No"
+      }
+    ]
+  },
+  {
+    "position": 63,
+    "text": "Choose what is most important to you in terms of salary and career.",
+    "answers": [
+      {
+        "position": 1,
+        "text": "Career opportunities"
+      },
+      {
+        "position": 2,
+        "text": "Steady income"
+      },
+      {
+        "position": 3,
+        "text": "There is an opportunity to go out on part-time work (the possibility of additional earnings)"
+      },
+      {
+        "position": 4,
+        "text": "Social package"
+      },
+      {
+        "position": 5,
+        "text": "The work gives you confidence and respect for yourself as a professional"
+      },
+      {
+        "position": 6,
+        "text": "Convenient schedule, there is time for both work and personal affairs (flexible schedule)"
+      },
+      {
+        "position": 7,
+        "text": "Provide special uniforms"
+      }
+    ]
+  },
+  {
+    "position": 64,
+    "text": "Choose the company characteristics that are most important to you.",
+    "answers": [
+      {
+        "position": 1,
+        "text": "The company grows and develops"
+      },
+      {
+        "position": 2,
+        "text": "Working for people"
+      },
+      {
+        "position": 3,
+        "text": "The company is large, stable and ambitious"
+      },
+      {
+        "position": 5,
+        "text": "The company uses modern technology"
+      },
+      {
+        "position": 6,
+        "text": "Managers hear us, meet us halfway, help us solve problems"
+      },
+      {
+        "position": 7,
+        "text": "The company creates a comfortable environment for my work"
+      },
+      {
+        "position": 8,
+        "text": "It's a well-known company."
+      }
+    ]
+  },
+  {
+    "position": 65,
+    "text": "Choose what is most important to you about the company's culture and people.",
+    "answers": [
+      {
+        "position": 1,
+        "text": "The company does a lot for its employees"
+      },
+      {
+        "position": 2,
+        "text": "Mutual aid, mutual assistance and support from colleagues and supervisors"
+      },
+      {
+        "position": 3,
+        "text": "Consideration of my interests in the work schedule, the ability to negotiate"
+      },
+      {
+        "position": 4,
+        "text": "Recognition of the results of my work by my supervisor, colleagues, and company"
+      },
+      {
+        "position": 5,
+        "text": "I can learn everything here"
+      },
+      {
+        "position": 6,
+        "text": "Respectful treatment from management and colleagues"
+      },
+      {
+        "position": 7,
+        "text": "Teamwork"
+      }
+    ]
+  },
+  {
+    "position": 66,
+    "text": "Choose which of these characteristics of your work are especially important to you personally.",
+    "answers": [
+      {
+        "position": 1,
+        "text": "There is an opportunity to move to another position or to another store, city, county"
+      },
+      {
+        "position": 2,
+        "text": "You can develop professionally - there are master classes, experience exchange, mentors"
+      },
+      {
+        "position": 3,
+        "text": "Reliable work, where I am stable and calm, there is confidence in the future"
+      },
+      {
+        "position": 4,
+        "text": "Friendly atmosphere in the team, positive attitude"
+      },
+      {
+        "position": 5,
+        "text": "There is an opportunity to learn new things: new people, new products, new experiences"
+      },
+      {
+        "position": 6,
+        "text": "Cleanliness and order in the store"
+      },
+      {
+        "position": 7,
+        "text": "Convenient location (close to home)"
+      }
+    ]
+  },
+  {
+    "position": 67,
+    "text": "Choose which other characteristics of the job are especially important to you personally.",
+    "answers": [
+      {
+        "position": 1,
+        "text": "To know everything in your workplace, to feel like a professional"
+      },
+      {
+        "position": 2,
+        "text": "The ability to influence and contribute with your work to the result of the team"
+      },
+      {
+        "position": 3,
+        "text": "To be useful, to pass on experience and knowledge"
+      },
+      {
+        "position": 4,
+        "text": "To be responsible for your area of work, for the goods, for the people"
+      },
+      {
+        "position": 5,
+        "text": "Communication with people, friendly attitude to people, willingness to help"
+      },
+      {
+        "position": 6,
+        "text": "High level and standard service"
+      },
+      {
+        "position": 7,
+        "text": "Make the product look nice on the shelves"
+      },
+      {
+        "position": 8,
+        "text": "Tasks are clearly set - everything is simple, easy, understandable to me."
+      }
+    ]
+  },
+  {
+    "position": 68,
+    "text": "Level of position",
+    "answers": [
+      {
+        "position": 1,
+        "text": "Supervisor"
+      },
+      {
+        "position": 2,
+        "text": "Director or merchandiser"
+      },
+      {
+        "position": 3,
+        "text": "Ordinary employee"
+      }
+    ]
+  },
+  {
+    "position": 69,
+    "text": "How long have you been with the company?",
+    "answers": [
+      {
+        "position": 1,
+        "text": "Up to 2 months"
+      },
+      {
+        "position": 2,
+        "text": "From 2 months to 1 year"
+      },
+      {
+        "position": 3,
+        "text": "1-2 years"
+      },
+      {
+        "position": 4,
+        "text": "3-5 years"
+      },
+      {
+        "position": 5,
+        "text": "6-10 years"
+      },
+      {
+        "position": 6,
+        "text": "More than 10 years"
+      }
+    ]
+  },
+  {
+    "position": 70,
+    "text": "Your age.",
+    "answers": [
+      {
+        "position": 1,
+        "text": "up to 20 years old"
+      },
+      {
+        "position": 2,
+        "text": "20-24 years old"
+      },
+      {
+        "position": 3,
+        "text": "25-29 years old"
+      },
+      {
+        "position": 4,
+        "text": "30-34 years old"
+      },
+      {
+        "position": 5,
+        "text": "35-39 years old"
+      },
+      {
+        "position": 6,
+        "text": "40-44 years old"
+      },
+      {
+        "position": 7,
+        "text": "45-49 years old"
+      },
+      {
+        "position": 8,
+        "text": "50-54 years old"
+      },
+      {
+        "position": 9,
+        "text": "55 and older"
+      }
+    ]
+  },
+  {
+    "position": 71,
+    "text": "Your gender.",
+    "answers": [
+      {
+        "position": 1,
+        "text": "Male"
+      },
+      {
+        "position": 2,
+        "text": "Female"
+      }
+    ]
+  },
+  {
+    "position": 72,
+    "text": "Marital Status.",
+    "answers": [
+      {
+        "position": 1,
+        "text": "Not married"
+      },
+      {
+        "position": 2,
+        "text": "Married"
+      }
+    ]
+  },
+  {
+    "position": 73,
+    "text": "I am dependent.",
+    "answers": [
+      {
+        "position": 1,
+        "text": "жена (муж)"
+      },
+      {
+        "position": 2,
+        "text": "1 child"
+      },
+      {
+        "position": 3,
+        "text": "2 children"
+      },
+      {
+        "position": 4,
+        "text": "3 or more children"
+      },
+      {
+        "position": 5,
+        "text": "parents, other relatives"
+      },
+      {
+        "position": 6,
+        "text": "no one"
+      }
+    ]
+  },
+  {
+    "position": 74,
+    "text": "Financial Obligations.",
+    "answers": [
+      {
+        "position": 1,
+        "text": "Mortgage"
+      },
+      {
+        "position": 2,
+        "text": "Car Loan"
+      },
+      {
+        "position": 3,
+        "text": "Apartment rent"
+      },
+      {
+        "position": 4,
+        "text": "Other loans"
+      },
+      {
+        "position": 5,
+        "text": "Don't have"
+      }
+    ]
+  }
+]
